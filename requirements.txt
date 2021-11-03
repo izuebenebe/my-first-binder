@@ -35,6 +35,11 @@ watermark
 pytest
 tqdm
 watermark
-scipy
 nbdime
 runipy
+cycler
+kiwisolver
+pyparsing
+python-dateutil
+pytz
+six
