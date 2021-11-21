@@ -166,8 +166,8 @@ service-identity>=16.0.0
 sgmllib3k>=1.0.0
 six>=1.11.0
 smart-open>=5.2.1
-sniffio==0.22.5
-sos>=4.1
+sniffio>=1.2.0
+sos==0.22.5
 soupsieve>=2.2.1
 SQLAlchemy>=1.4.26
 ssh-import-id>=5.7
