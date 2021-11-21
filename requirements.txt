@@ -187,7 +187,7 @@ traitlets>=4.3.3
 tweepy>=4.2.0
 Twisted>=17.9.0
 typing-extensions>=3.10.0.2
-ubuntu-advantage-tools>=27.2
+ubuntu-advantage-tools==27.2
 ufw>=0.36
 unattended-upgrades>=0.1
 upgrade-requirements>=1.7.0
