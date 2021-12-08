@@ -43,7 +43,7 @@ hpack>=3.0.0
 httplib2>=0.20.1
 hyperframe>=5.2.0
 hyperlink>=21.0.0
-idna>=3.3
+idna
 immutables>=0.16
 importlib-metadata>=4.8.1
 importlib-resources>=5.4.0
